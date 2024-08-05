@@ -5,9 +5,9 @@
 Este projeto é um aplicativo móvel para um sistema de ponto de venda (PDV) desenvolvido em Java usando IntelliJ IDEA como IDE principal.
 
 ## Tecnologias e Ferramentas Utilizadas
-
-- Java
-- IntelliJ IDEA
+- Android Studio: IDE utilizada para o desenvolvimento da aplicação Android.
+- Java: Linguagem de programação usada para implementar a lógica e funcionalidades da aplicação.
+- Android SDK: Ferramentas e bibliotecas do Android para construir a interface gráfica e interagir com o sistema operacional.
 ## Autor
 
 Este projeto foi desenvolvido pelo seguinte estudantes da Universidade Paranaense (UNIPAR):

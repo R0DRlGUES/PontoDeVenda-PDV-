@@ -13,7 +13,6 @@ Este projeto é um aplicativo móvel para um sistema de ponto de venda (PDV) des
 Este projeto foi desenvolvido pelo seguinte estudantes da Universidade Paranaense (UNIPAR):
 
 - [Pedro Henrique Pinheiro Rodrigues](https://github.com/R0DRlGUES)
-- 
 ## Ilustração
 
 <div>

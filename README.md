@@ -22,6 +22,3 @@ Este projeto foi desenvolvido pelo seguinte estudantes da Universidade Paranaens
 <img src="Imagens/f2da1baa-b106-4d7d-bfd4-e5ad2a25656d.jpg" alt="Retalatório de Vendas" width="150" height="300"> 
 </div>
 
-## Licença
-
-Este projeto é distribuído sob a licença [MIT](https://github.com/seu-usuario/seu-repositorio/blob/master/LICENSE). Consulte o arquivo `LICENSE` para obter mais informações.
